@@ -1,0 +1,7 @@
+{
+  "name": "SqliteBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
